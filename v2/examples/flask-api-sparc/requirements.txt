@@ -1,7 +1,7 @@
 flask==2.3.2
 flask-sqlalchemy==3.0.5
 flask-cors==4.0.0
-python-dotenv==1.0.0
+python-dotenv==1.2.2
 pytest==7.4.0
 pytest-cov==4.1.0
 black==23.7.0
